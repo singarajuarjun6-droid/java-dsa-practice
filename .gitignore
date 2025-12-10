@@ -1,0 +1,39 @@
+# Compiled class files
+*.class
+
+# Build directories
+/bin/
+/out/
+/target/
+/build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+/.idea_modules/
+/*.ipr
+
+# Maven/Gradle
+/.mvn/
+/.gradle/
+/build/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs, temp files
+*.log
+*.tmp
+
+# Java specific
+*.jar
+*.war
+*.ear
+
